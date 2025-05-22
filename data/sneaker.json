@@ -1,0 +1,131 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Air Max",
+      "price": 250000,
+      "currency": "₮",
+      "image": "img/nike-air-max.jpg",
+      "link": "item.html",
+      "type": "recommended"
+    },
+    {
+      "id": 2,
+      "name": "Adidas UltraBoost",
+      "price": 270000,
+      "currency": "₮",
+      "image": "img/adidas ultra-boost.jpg",
+      "link": "item.html",
+      "type": "recommended"
+    },
+    {
+      "id": 3,
+      "name": "Converse All Star",
+      "price": 190000,
+      "currency": "₮",
+      "image": "img/converse-all-star.jpg",
+      "link": "item.html",
+      "type":"recommended"
+    },
+    { "id":4,
+      "name": "Li-Ning Shadow",
+      "price": 230000,
+      "currency": "₮",
+      "image": "img/lining-shadow.jpg",
+      "link": "item.html",
+      "type":"recommended"
+    },
+    { "id":5,
+      "name": "ANTA KT8",
+      "price": 260000,
+      "currency": "₮",
+      "image": "img/anta-kt8.jpeg",
+      "link": "item.html",
+      "type":"recommended"
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Max",
+      "price": 250000,
+      "currency": "₮",
+      "image": "img/nike-air-max.jpg",
+      "link": "item.html",
+      "type": "new"
+    },
+    {
+      "id": 7,
+      "name": "Adidas UltraBoost",
+      "price": 270000,
+      "currency": "₮",
+      "image": "img/adidas ultra-boost.jpg",
+      "link": "item.html",
+      "type": "new"
+    },
+    {
+      "id": 8,
+      "name": "Converse All Star",
+      "price": 190000,
+      "currency": "₮",
+      "image": "img/converse-all-star.jpg",
+      "link": "item.html",
+      "type":"new"
+    },
+    { "id":9,
+      "name": "Li-Ning Shadow",
+      "price": 230000,
+      "currency": "₮",
+      "image": "img/lining-shadow.jpg",
+      "link": "item.html",
+      "type":"new"
+    },
+    { "id":10,
+      "name": "ANTA KT8",
+      "price": 260000,
+      "currency": "₮",
+      "image": "img/anta-kt8.jpeg",
+      "link": "item.html",
+      "type":"new"
+    },
+    {
+      "id": 11,
+      "name": "Nike Air Max",
+      "price": 250000,
+      "currency": "₮",
+      "image": "img/nike-air-max.jpg",
+      "link": "item.html",
+      "type": "mostsold"
+    },
+    {
+      "id": 12,
+      "name": "Adidas UltraBoost",
+      "price": 270000,
+      "currency": "₮",
+      "image": "img/adidas ultra-boost.jpg",
+      "link": "item.html",
+      "type": "mostsold"
+    },
+    {
+      "id": 13,
+      "name": "Converse All Star",
+      "price": 190000,
+      "currency": "₮",
+      "image": "img/converse-all-star.jpg",
+      "link": "item.html",
+      "type":"mostsold"
+    },
+    { "id":14,
+      "name": "Li-Ning Shadow",
+      "price": 230000,
+      "currency": "₮",
+      "image": "img/lining-shadow.jpg",
+      "link": "item.html",
+      "type":"mostsold"
+    },
+    { "id":15,
+      "name": "ANTA KT8",
+      "price": 260000,
+      "currency": "₮",
+      "image": "img/anta-kt8.jpeg",
+      "link": "item.html",
+      "type":"mostsold"
+    }
+]
